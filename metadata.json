@@ -1,0 +1,6 @@
+{
+  "name": "NeuroQ-Scan: Hybrid Quantum Brain Tumour MRI Platform",
+  "description": "Clinician-facing hybrid quantum-classical MRI brain tumour detection, QML circuit visualizer, Grad-CAM/SHAP explainability engine, and automated clinical reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
